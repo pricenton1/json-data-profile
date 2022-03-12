@@ -85,6 +85,12 @@
       ],
       "portfolio":[
           {
+              "title":"REST API PickMyFood",
+              "desc":"This Backend application PickMyFood where someone can order food & beverage anywhere and anytime.This REST API build With Golang, architectural monolith using mysql as database Mux,JWT,Viper,and any more.",
+              "link":"https://github.com/pricenton1/PickMyFood-BackEnd",
+              "icon":"https://i.ibb.co/TKx61Wq/golang.png"
+          },
+          {
               "title":"Simple REST API CRUD ( Golang )",
               "desc":"Develop simple REST API with Golang, MUX as library / framework router and using MySQL as database",
               "link":"https://github.com/pricenton1/logistics",
@@ -103,6 +109,18 @@
             "desc":"Competency certificate of system analyst event was held with STMIK Nusa Mandiri Jakarta and BNSP",
             "date":"10/09/2019",
             "image":"https://i.ibb.co/7bFBx5b/doc-Sistem-Analisis.jpg"
+          },
+          {
+            "title":"Social Project PPPM at Nusa Mandiri",
+            "desc":"This workshop event was held at STMIK Nusa Mandiri, Jakarta by PPPM. The theme of this workshop is basic WordPress training to create a simple website and the target of this event is local villagers",
+            "date":"19/10/2018",
+            "image":"https://i.ibb.co/FxCLNPY/doc-Soc-Nusa-Mandiri.jpg"
+          },
+          {
+            "title":"Social Project at SMP SABILUNA",
+            "desc":"This workshop event was held at the Sabiluna Junior High School Pondok Ranji, this workshop training / knowledge about basic computers starting from hardware, software installation, networking, and network cable installation",
+            "date":"19/06/2017",
+            "image":"https://i.ibb.co/rvPNKfV/doc-SMPSabiluna.jpg"
           }
       ]
   }
