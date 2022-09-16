@@ -84,6 +84,12 @@
           }
       ],
       "portfolio":[
+        {
+            "title":"Weather App",
+            "desc":"Create a simple weather app with vuejs, using vuex for state management",
+            "link":"https://weather-app-tonykuy.herokuapp.com",
+            "icon":"https://i.ibb.co/7gTyQff/vue.png"
+        },
           {
               "title":"Simple CRUD ReactJs",
               "desc":"Create a simple CRUD users with reactjs, using redux state management, pagination",
