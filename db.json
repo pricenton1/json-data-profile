@@ -89,6 +89,14 @@
           {
               "name":"VueJS",
               "icon":"https://i.ibb.co.com/7gTyQff/vue.png"
+          },
+          {
+              "name":"Docker",
+              "icon":"https://i.ibb.co.com/0ZpnytJ/Docker-icon.png"
+          },
+          {
+              "name":"SQL Server",
+              "icon":"https://i.ibb.co.com/nQDCvrt/Mssql-sql-icon.png"
           }
       ],
       "portfolio":[
