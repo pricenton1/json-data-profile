@@ -3,7 +3,7 @@
       "firstname":"Antony",
       "lastname":"Mirasandy",
       "nationality":"Indonesia",
-      "image_person":"https://i.ibb.co/zNqqtk8/tony-2-modified.png",
+      "image_person":"https://i.ibb.co.com/zNqqtk8/tony-2-modified.png",
       "bio":"software developer familiar with the programming language golang, react js and vue js for application development",
       "about":"Hello Minna-san, thank you for visiting my website, my name is Antony Mirasandy born in Tangerang, Indonesia. At this time i want to focus on becoming a software developer and learn more about several programming languages, frameworks that are currently used, and make several projects for exercise",
       "education":[
@@ -36,7 +36,14 @@
           {
               "title":"PT. Bussan Auto Finnance",
               "position":"Backend Developer",
-              "date":"2021-Right Now",
+              "date":"2021-Present",
+              "desc":"",
+              "image":""
+          },
+          {
+              "title":"Trainee EnigmaCamp",
+              "position":"Fullstack Developer",
+              "date":"2020",
               "desc":"",
               "image":""
           },
@@ -65,23 +72,23 @@
       "skills":[
           {
               "name":"Golang",
-              "icon":"https://i.ibb.co/TKx61Wq/golang.png"
+              "icon":"https://i.ibb.co.com/TKx61Wq/golang.png"
           },
           {
               "name":"MySQL",
-              "icon":"https://i.ibb.co/ynNjQxp/mysql.png"
+              "icon":"https://i.ibb.co.com/ynNjQxp/mysql.png"
           },
           {
               "name":"PostgreSQL",
-              "icon":"https://i.ibb.co/gD43ycw/postgre-Sql.png"
+              "icon":"https://i.ibb.co.com/gD43ycw/postgre-Sql.png"
           },
           {
               "name":"ReactJS",
-              "icon":"https://i.ibb.co/jrDr6ZH/react.png"
+              "icon":"https://i.ibb.co.com/jrDr6ZH/react.png"
           },
           {
               "name":"VueJS",
-              "icon":"https://i.ibb.co/7gTyQff/vue.png"
+              "icon":"https://i.ibb.co.com/7gTyQff/vue.png"
           }
       ],
       "portfolio":[
@@ -89,31 +96,31 @@
             "title":"Weather App",
             "desc":"Create a simple weather app with vuejs, using vuex for state management",
             "link":"https://weather-app-tonykuy.herokuapp.com",
-            "icon":"https://i.ibb.co/7gTyQff/vue.png"
+            "icon":"https://i.ibb.co.com/7gTyQff/vue.png"
         },
           {
               "title":"Simple CRUD ReactJs",
               "desc":"Create a simple CRUD users with reactjs, using redux state management, pagination",
               "link":"https://github.com/pricenton1/test-mekar-frontend",
-              "icon":"https://i.ibb.co/jrDr6ZH/react.png"
+              "icon":"https://i.ibb.co.com/jrDr6ZH/react.png"
           },
           {
               "title":"Weather App",
               "desc":"Create a simple weather app with reactjs, hooks state management and using public api weather",
               "link":"https://github.com/pricenton1/weather-with-reactJS-hooks",
-              "icon":"https://i.ibb.co/jrDr6ZH/react.png"
+              "icon":"https://i.ibb.co.com/jrDr6ZH/react.png"
           },
           {
               "title":"REST API PickMyFood",
               "desc":"This Backend application PickMyFood where someone can order food & beverage anywhere and anytime.This REST API build With Golang, architectural monolith using mysql as database Mux,JWT,Viper,and any more.",
               "link":"https://github.com/pricenton1/PickMyFood-BackEnd",
-              "icon":"https://i.ibb.co/TKx61Wq/golang.png"
+              "icon":"https://i.ibb.co.com/TKx61Wq/golang.png"
           },
           {
               "title":"Simple REST API CRUD ( Golang )",
               "desc":"Develop simple REST API with Golang, MUX as library / framework router and using MySQL as database",
               "link":"https://github.com/pricenton1/logistics",
-              "icon":"https://i.ibb.co/TKx61Wq/golang.png"
+              "icon":"https://i.ibb.co.com/TKx61Wq/golang.png"
           }
       ],
       "activities":[
@@ -121,25 +128,25 @@
               "title":"Final project presentation on EnigmaCamp",
               "desc":"The presentation of the pick my food application, where someone can order food & beverage anywhere and anytime, The programming languages or frameworks used to build this application include Golang for the backend, Reactjs for the frontend, and Kotlin for mobile.",
               "date":"09/21/2020",
-              "image":"https://i.ibb.co/rMgfY0V/final-Project-Pick-My-Food.jpg"
+              "image":"https://i.ibb.co.com/rMgfY0V/final-Project-Pick-My-Food.jpg"
           },
           {
             "title":"Certificate of competence",
             "desc":"Competency certificate of system analyst event was held with STMIK Nusa Mandiri Jakarta and BNSP",
             "date":"10/09/2019",
-            "image":"https://i.ibb.co/7bFBx5b/doc-Sistem-Analisis.jpg"
+            "image":"https://i.ibb.co.com/7bFBx5b/doc-Sistem-Analisis.jpg"
           },
           {
             "title":"Social Project PPPM at Nusa Mandiri",
             "desc":"This workshop event was held at STMIK Nusa Mandiri, Jakarta by PPPM. The theme of this workshop is basic WordPress training to create a simple website and the target of this event is local villagers",
             "date":"10/19/2018",
-            "image":"https://i.ibb.co/FxCLNPY/doc-Soc-Nusa-Mandiri.jpg"
+            "image":"https://i.ibb.co.com/FxCLNPY/doc-Soc-Nusa-Mandiri.jpg"
           },
           {
             "title":"Social Project at SMP SABILUNA",
             "desc":"This workshop event was held at the Sabiluna Junior High School Pondok Ranji, this workshop training / knowledge about basic computers starting from hardware, software installation, networking, and network cable installation",
             "date":"06/19/2017",
-            "image":"https://i.ibb.co/rvPNKfV/doc-SMPSabiluna.jpg"
+            "image":"https://i.ibb.co.com/rvPNKfV/doc-SMPSabiluna.jpg"
           }
       ]
   }
