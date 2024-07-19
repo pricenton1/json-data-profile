@@ -103,7 +103,7 @@
         {
             "title":"Weather App",
             "desc":"Create a simple weather app with vuejs, using vuex for state management",
-            "link":"https://weather-app-tonykuy.herokuapp.com",
+            "link":"https://weather-app-tonykuy.vercel.app",
             "icon":"https://i.ibb.co.com/7gTyQff/vue.png"
         },
           {
@@ -132,6 +132,12 @@
           }
       ],
       "activities":[
+        {
+            "title":"Weather App",
+            "desc":"Mini Project Weather App built with public API weather and cities, using vue.js framework / library, tailwindcss as css framework and v-select library for city search input",
+            "date":"07/19/2024",
+            "image":"https://www.dropbox.com/scl/fi/2cw6sxmcttkrnjj33bxmq/vue-weather-app.png"
+        },
           {
               "title":"Final project presentation on EnigmaCamp",
               "desc":"The presentation of the pick my food application, where someone can order food & beverage anywhere and anytime, The programming languages or frameworks used to build this application include Golang for the backend, Reactjs for the frontend, and Kotlin for mobile.",
