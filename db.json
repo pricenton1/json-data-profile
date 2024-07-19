@@ -136,32 +136,32 @@
             "title":"Weather App",
             "desc":"Mini Project Weather App built with public API weather and cities, using vue.js framework / library, tailwindcss as css framework and v-select library for city search input",
             "date":"07/19/2024",
-            "image":"https://www.dropbox.com/scl/fi/2cw6sxmcttkrnjj33bxmq/vue-weather-app.png"
+            "image":"https://www.dropbox.com/scl/fi/2cw6sxmcttkrnjj33bxmq/vue-weather-app.png?rlkey=xe6hpz3cpt0c7k1ee0odramyc&st=5vgz48rs&raw=1"
         },
-          {
-              "title":"Final project presentation on EnigmaCamp",
-              "desc":"The presentation of the pick my food application, where someone can order food & beverage anywhere and anytime, The programming languages or frameworks used to build this application include Golang for the backend, Reactjs for the frontend, and Kotlin for mobile.",
-              "date":"09/21/2020",
-              "image":"https://i.ibb.co.com/rMgfY0V/final-Project-Pick-My-Food.jpg"
-          },
-          {
-            "title":"Certificate of competence",
-            "desc":"Competency certificate of system analyst event was held with STMIK Nusa Mandiri Jakarta and BNSP",
-            "date":"10/09/2019",
-            "image":"https://i.ibb.co.com/7bFBx5b/doc-Sistem-Analisis.jpg"
-          },
-          {
-            "title":"Social Project PPPM at Nusa Mandiri",
-            "desc":"This workshop event was held at STMIK Nusa Mandiri, Jakarta by PPPM. The theme of this workshop is basic WordPress training to create a simple website and the target of this event is local villagers",
-            "date":"10/19/2018",
-            "image":"https://i.ibb.co.com/FxCLNPY/doc-Soc-Nusa-Mandiri.jpg"
-          },
-          {
-            "title":"Social Project at SMP SABILUNA",
-            "desc":"This workshop event was held at the Sabiluna Junior High School Pondok Ranji, this workshop training / knowledge about basic computers starting from hardware, software installation, networking, and network cable installation",
-            "date":"06/19/2017",
-            "image":"https://i.ibb.co.com/rvPNKfV/doc-SMPSabiluna.jpg"
-          }
+        {
+            "title":"Final project presentation on EnigmaCamp",
+            "desc":"The presentation of the pick my food application, where someone can order food & beverage anywhere and anytime, The programming languages or frameworks used to build this application include Golang for the backend, Reactjs for the frontend, and Kotlin for mobile.",
+            "date":"09/21/2020",
+            "image":"https://i.ibb.co.com/rMgfY0V/final-Project-Pick-My-Food.jpg"
+        },
+        {
+        "title":"Certificate of competence",
+        "desc":"Competency certificate of system analyst event was held with STMIK Nusa Mandiri Jakarta and BNSP",
+        "date":"10/09/2019",
+        "image":"https://i.ibb.co.com/7bFBx5b/doc-Sistem-Analisis.jpg"
+        },
+        {
+        "title":"Social Project PPPM at Nusa Mandiri",
+        "desc":"This workshop event was held at STMIK Nusa Mandiri, Jakarta by PPPM. The theme of this workshop is basic WordPress training to create a simple website and the target of this event is local villagers",
+        "date":"10/19/2018",
+        "image":"https://i.ibb.co.com/FxCLNPY/doc-Soc-Nusa-Mandiri.jpg"
+        },
+        {
+        "title":"Social Project at SMP SABILUNA",
+        "desc":"This workshop event was held at the Sabiluna Junior High School Pondok Ranji, this workshop training / knowledge about basic computers starting from hardware, software installation, networking, and network cable installation",
+        "date":"06/19/2017",
+        "image":"https://i.ibb.co.com/rvPNKfV/doc-SMPSabiluna.jpg"
+        }
       ]
   }
 }
